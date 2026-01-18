@@ -610,8 +610,9 @@ copies of the Software...
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments  
 
+- **Project Supervisor**: [Thalhath TA](https://www.linkedin.com/in/thalhath-ta/) 
 - **LangChain**: For the excellent RAG orchestration framework
 - **HuggingFace**: For pre-trained models and transformers library
 - **Mistral AI**: For the high-quality open-source LLM

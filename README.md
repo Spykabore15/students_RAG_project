@@ -205,6 +205,16 @@ graph TD
 
 ---
 
+## Demo
+![Interface](/interface.png)
+
+![Test- question1](/test1.png)
+  
+![Test- question2](/test2.png)
+
+![Test- question3](/instruction_testing.png)
+
+   
 ## 📦 Installation
 
 ### Prerequisites
